@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A7172233-4D55-13FF-C658-9B9CC85FB6EE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LastCollisionBug",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"RuntimeMeshComponent"
+			]
+		}
+	]
+}
